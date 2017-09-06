@@ -1,0 +1,353 @@
+
+body{
+  background-color: #333 !important;
+}
+.container{
+  float: center;
+  position: relative;
+  margin: 0 auto;
+  display: inline;
+}
+
+  .center{
+    height: 10px;
+    position: relative;
+    float: center;
+    margin: 0 auto;
+  }
+
+    .sunCircle{
+      width:450px;
+      height:450px;
+      position:absolute;
+      -webkit-animation-iteration-count:infinite;
+      -webkit-animation-timing-function:linear;
+      -webkit-animation-name:orbit;
+      -webkit-animation-duration:10s; auto;
+      margin: 100 auto;
+      margin-left: 100px;
+    }
+
+    .sun{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit;
+        -webkit-animation-duration:3s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun1{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit1;
+        -webkit-animation-duration:3s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun2{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit2;
+        -webkit-animation-duration:3s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun3{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit3;
+        -webkit-animation-duration:4s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun4{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit4;
+        -webkit-animation-duration:4s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun5{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit5;
+        -webkit-animation-duration:4s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun5-1{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit5-1;
+        -webkit-animation-duration:4s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun5-2{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit5-2;
+        -webkit-animation-duration:4s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun6{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit6;
+        -webkit-animation-duration:5s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun7{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit7;
+        -webkit-animation-duration:5s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun8{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit8;
+        -webkit-animation-duration:5s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun8-1{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit8-1;
+        -webkit-animation-duration:5s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun8-2{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit8-2;
+        -webkit-animation-duration:5s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun8-3{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit8-3;
+        -webkit-animation-duration:5s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun8-4{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit8-4;
+        -webkit-animation-duration:5s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+    .sun8-5{
+        width:450px;
+        height:450px;
+        position:absolute;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-name:orbit8-5;
+        -webkit-animation-duration:5s; auto;
+        margin: 100 auto;
+        margin-left: 100px;
+    }
+
+      .planet, .planet1, .planet2{
+          position:absolute;
+          top:202.5px;
+          left:202.5px;
+          width:15px;
+          height:5px;
+          background:#999;
+          border-radius:10%;
+          border-bottom-left-radius:50%;
+          border-bottom-right-radius:50%;
+          -webkit-transform: rotate(140deg);
+          -moz-transform: rotate(140deg);
+          -o-transform: rotate(140deg);
+          -ms-transform: rotate(140deg);
+          transform: rotate(140deg);
+      }
+
+      .planet3, .planet4, .planet5, .planet5-1, .planet5-2{
+          position:absolute;
+          top:185px;
+          left:185px;
+          width:20px;
+          height:7px;
+          background:#999;
+          border-radius:10%;
+          border-bottom-left-radius:50%;
+          border-bottom-right-radius:50%;
+          -webkit-transform: rotate(140deg);
+          -moz-transform: rotate(140deg);
+          -o-transform: rotate(140deg);
+          -ms-transform: rotate(140deg);
+          transform: rotate(140deg);
+      }
+
+      .planet6, .planet7, .planet8, .planet8-1, .planet8-2, .planet8-3, .planet8-4, .planet8-5{
+          position:absolute;
+          top:160px;
+          left:160px;
+          width:30px;
+          height:7px;
+          background:#98ff98;
+          border-radius:10%;
+          border-bottom-left-radius:50%;
+          border-bottom-right-radius:50%;
+          -webkit-transform: rotate(140deg);
+          -moz-transform: rotate(140deg);
+          -o-transform: rotate(140deg);
+          -ms-transform: rotate(140deg);
+          transform: rotate(140deg);
+      }
+
+      .planetCircle{
+        position:absolute;
+        top:215;
+        left:215;
+        width:20px;
+        height:20px;
+        background:red;
+        border-radius:50%;
+        border-bottom-left-radius:50%;
+        border-bottom-right-radius:50%;
+        -webkit-transform: rotate(140deg);
+        -moz-transform: rotate(140deg);
+        -o-transform: rotate(140deg);
+        -ms-transform: rotate(140deg);
+        transform: rotate(140deg);
+      }
+
+@-webkit-keyframes orbit {
+from { -webkit-transform:rotate(30deg) }
+to { -webkit-transform:rotate(390deg) } }
+
+@-webkit-keyframes orbit1 {
+from { -webkit-transform:rotate(150deg) }
+to { -webkit-transform:rotate(510deg) } }
+
+@-webkit-keyframes orbit2 {
+from { -webkit-transform:rotate(260deg) }
+to { -webkit-transform:rotate(620deg) } }
+
+@-webkit-keyframes orbit3 {
+from { -webkit-transform:rotate(390deg) }
+to { -webkit-transform:rotate(30deg) } }
+
+@-webkit-keyframes orbit4 {
+from { -webkit-transform:rotate(462deg) }
+to { -webkit-transform:rotate(102deg) } }
+
+@-webkit-keyframes orbit5 {
+from { -webkit-transform:rotate(534deg) }
+to { -webkit-transform:rotate(174deg) } }
+
+@-webkit-keyframes orbit5-1 {
+from { -webkit-transform:rotate(606deg) }
+to { -webkit-transform:rotate(246deg) } }
+
+@-webkit-keyframes orbit5-2 {
+from { -webkit-transform:rotate(678deg) }
+to { -webkit-transform:rotate(318deg) } }
+
+@-webkit-keyframes orbit6 {
+from { -webkit-transform:rotate(30deg) }
+to { -webkit-transform:rotate(390deg) } }
+
+@-webkit-keyframes orbit7 {
+from { -webkit-transform:rotate(75deg) }
+to { -webkit-transform:rotate(435deg) } }
+
+@-webkit-keyframes orbit8 {
+from { -webkit-transform:rotate(120deg) }
+to { -webkit-transform:rotate(480deg) } }
+
+@-webkit-keyframes orbit8-1 {
+from { -webkit-transform:rotate(165deg) }
+to { -webkit-transform:rotate(525deg) } }
+
+@-webkit-keyframes orbit8-2 {
+from { -webkit-transform:rotate(210deg) }
+to { -webkit-transform:rotate(570deg) } }
+
+@-webkit-keyframes orbit8-3 {
+from { -webkit-transform:rotate(255deg) }
+to { -webkit-transform:rotate(615deg) } }
+
+@-webkit-keyframes orbit8-4 {
+from { -webkit-transform:rotate(300deg) }
+to { -webkit-transform:rotate(660deg) } }
+
+@-webkit-keyframes orbit8-5 {
+from { -webkit-transform:rotate(345deg) }
+to { -webkit-transform:rotate(705deg) } }
